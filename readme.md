@@ -7,8 +7,8 @@
 - **Público alvo**: alunos da disciplina de SO (Sistemas Operacionais) do curso de TADS (Superior em Tecnologia em Análise e Desenvolvimento de Sistemas) no CNAT-IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central).
 - disciplina: **SO** [Sistemas Operacionais](https://github.com/sistemas-operacionais/)
 - professor: [Leonardo A. Minora](https://github.com/leonardo-minora)
-- aluno: Gustavo Henrique da Cruz Macieç
-- Matrícula: 20232014040003;
+- aluno: Gustavo Henrique da Cruz Maciel
+- Matrícula: 20232014040003
 
 ### **1. Objetivo**  
 Criar um ambiente isolado com Docker Fedora para compilar e executar programas em C, utilizando:  
