@@ -44,4 +44,4 @@ gcc main.c -o programa  # Compilação
 ![image](https://github.com/user-attachments/assets/1ff4cd1f-1917-4d1e-bab9-2da9c39faa68)
 
 ### **4. Conclusão**
-#### A experiência mostrou como o Docker simplifica o desenvolvimento em C, eliminando problemas de compatibilidade. O maior desafio foi configurar o mapeamento de volumes, mas valeu a pena - agora posso desenvolver em qualquer máquina sem preocupações. Além da portabilidade, descobri como containers podem padronizar ambientes de trabalho, algo que vou levar para projetos futuros. Uma solução prática que realmente facilita a vida do programador.
+#### A experiência mostrou como o Docker simplifica o desenvolvimento em C, eliminando problemas de compatibilidade. O meu maior desafio foi configurar o mapeamento de volumes, mas acredito que tenha dado certo, com isso, agora posso desenvolver em qualquer máquina sem preocupações. Além da portabilidade, descobri como containers podem padronizar ambientes de trabalho, algo que vou levar para projetos futuros. Uma solução prática que realmente facilita a vida do programador.
